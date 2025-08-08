@@ -47,5 +47,3 @@ function App() {
 }
 
 export default App
-
-// Memwuz-renfe8-cefweb
